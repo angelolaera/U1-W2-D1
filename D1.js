@@ -63,7 +63,7 @@ console.log(4-x)
 const name1="john"
 const name2="John"
 console.log(name1===name2)
-const name3=name2.toLowerCase()
 
-console.log(name1===name3)
+
+console.log(name1===name2.toLowerCase())
 
